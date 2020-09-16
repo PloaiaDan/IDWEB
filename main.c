@@ -1,6 +1,6 @@
 #include 
  
-int main(void)
+int main(void);
 {
     puts("Hello, world!");
 }
