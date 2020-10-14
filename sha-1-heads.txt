@@ -1,0 +1,11 @@
+b1db430baa70bbb1fba29715d710492f95d2f4a1 commit refs/heads/Bash
+540b9c37f23d67410f5b81422a5b8bd9cb87e62f commit refs/heads/C
+9e8e9427f9c404bc3ee975a31ec705158effd824 commit refs/heads/C#
+920c43af747a9224d8619d58398a600ef2bdf05d commit refs/heads/C++
+d5adeb1e21aed2d16ec0724649f68f8b874a9c2c commit refs/heads/Delphi
+9c8a3be96b7535b3543e2ee93328140956483abc commit refs/heads/JAVA
+1f4be509e5ff7ccfc79b110ed70645a5381f26be commit refs/heads/JQuery
+cbfd1d36d2f5d95a8a5230f61784cb9e091c00c6 commit refs/heads/Matlab
+05af4bec378b99d8d649d61d8079e71171b4db97 commit refs/heads/Pascal
+4ec86c6b3849a72eaf56cb2cca04ceb595248a68 commit refs/heads/Python
+864ee446d3549e94a69f36065af4ff43935f901d commit refs/heads/master
